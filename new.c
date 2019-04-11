@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
- c=10
+ v=19;
 printf("welcome");
  printf("hellow");
 return 0;
